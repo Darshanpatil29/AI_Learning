@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/M01-Setup/">
+    <Project Path="src/M01-Setup/M01.SmokeTest/M01.SmokeTest.csproj" />
+    <Project Path="src/M01-Setup/M01.Walkthrough/M01.Walkthrough.csproj" />
+  </Folder>
+</Solution>
