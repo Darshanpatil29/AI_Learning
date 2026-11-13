@@ -288,7 +288,7 @@ Must include: ASP.NET Core + Blazor chat UI (streaming), threads persisted in DB
 
 | Module | Status | Checkpoint score | Notes |
 |---|---|---|---|
-| 0 · AI & LLM fundamentals | 🟡 in progress | | Started 2026-11-12 |
+| 0 · AI & LLM fundamentals | 🟡 lessons done | Quizzes: 0.1–0.2 2.5/4 · 0.3 4/5 · 0.4 2.5/5 · 0.5 3/4 | Lessons 0.1–0.5 done 2026-11-13; Lab 0 next. Revisit: limits ↔ fixes, agent loop closes back to LLM |
 | 1 · Setup & C# for AI apps | 🟡 code ready | | Walkthrough + smoke test built; token + Lab 1 pending |
 | 2 · Microsoft.Extensions.AI | ☐ | | |
 | 3 · Prompt engineering | ☐ | | |
